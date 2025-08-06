@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-community
+langchain-groq
+langchain-core
+fastapi
+watchdog
+uvicorn
+langgraph-cli[inmem]
